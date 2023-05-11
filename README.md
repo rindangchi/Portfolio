@@ -9,7 +9,7 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 - [Python](#python)
 - [Data Engineering](#data-engineering)
 
-<h3> 📊 Tableau </h3>
+<h3> 📊 Data Viz </h3>
 
 
 | Project Link  | Description   |Tools|
