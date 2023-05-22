@@ -18,9 +18,12 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 | [Make Over Monday-US Pay Gap](https://public.tableau.com/app/profile/rindangcahyaning/viz/MakeOverMonday2023W13USPayGap/Dashboard1)  | This simple dashboard is part of make over monday challenge participation, here I create simple dashboard to show the pay gap of US athlete based on gender   | Tableau |
 | [Skincare Review Dashboard](https://public.tableau.com/app/profile/rindangcahyaning/viz/SkincareReview/Dashboard1) | This dashboard shows the overview of customer review of skincare in a beauty community website, using this website consumer will know what is the most recommend skincare based on the Category and Brand| Tableau |
 
-
 <h3> 🛢️ SQL </h3>
 
 <h3> 🐍 Python </h3>
+
+| Project Link  | Description   |Tools|
+| ------------- | ------------- |-----|
+| [Twitter Sentiment Analysis](https://github.com/rindangchi/Simple-Sentiment-Analysis)       | Analyzing sentiment from tweet data about government's policy during covid pandemic. The sentiment is divided in three categories, poditive, negative, and neutral based on scoring. By analyzing people's opinion in social media government can gain an insight how society gives respond on their regulations | Python |
 
 <h3> 💻 Data Engineering </h3>
