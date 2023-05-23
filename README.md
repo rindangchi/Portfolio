@@ -22,7 +22,7 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 
 | Project Link  | Description   |Tools|
 | ------------- | ------------- |-----|
-| [Covid Case EDA]()
+| [Covid Case EDA](https://github.com/rindangchi/SQL-Covid-EDA/tree/main) | This project is to analyze and explore the data of covid cases in the world. In this project I want to get some insights about covid cases, death, and vaccination | SQLite |
 
 
 <h3> 🐍 Python </h3>
