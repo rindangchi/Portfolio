@@ -20,6 +20,11 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 
 <h3> 🛢️ SQL </h3>
 
+| Project Link  | Description   |Tools|
+| ------------- | ------------- |-----|
+| [Covid Case EDA]()
+
+
 <h3> 🐍 Python </h3>
 
 | Project Link  | Description   |Tools|
