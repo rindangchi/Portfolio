@@ -17,14 +17,14 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 | [Sales Performance Dashboard](https://public.tableau.com/app/profile/rindangcahyaning/viz/SalesDashboard_16741907212560/SalesOverview) | This project is to create sales dashboard in Tableau using Sales Superstore data from Kaggle. Here I create some sales KPIs | Tableau |
 | [Make Over Monday-US Pay Gap](https://public.tableau.com/app/profile/rindangcahyaning/viz/MakeOverMonday2023W13USPayGap/Dashboard1)  | This simple dashboard is part of make over monday challenge participation, here I create simple dashboard to show the pay gap of US athlete based on gender   | Tableau |
 | [Skincare Review Dashboard](https://public.tableau.com/app/profile/rindangcahyaning/viz/SkincareReview/Dashboard1) | This dashboard shows the overview of customer review of skincare in a beauty community website, using this website consumer will know what is the most recommend skincare based on the Category and Brand| Tableau |
-| [Global CO2 Emission Dashboard](https://public.tableau.com/app/profile/rindangcahyaning/viz/GlobalCO2Emission_16787234006400/Dashboard1) | This dashboard is to visualize the CO2 emossion trends in the world between 1960-2011 | Tableau|
+| [Global CO2 Emission Dashboard](https://public.tableau.com/app/profile/rindangcahyaning/viz/GlobalCO2Emission_16787234006400/Dashboard1) | This dashboard is to visualize the CO2 emission trends in the world between 1960-2011 | Tableau|
 
 
 <h3> 🛢️ SQL </h3>
 
 | Project Link  | Description   |Tools|
 | ------------- | ------------- |-----|
-| [Covid Case EDA](https://github.com/rindangchi/SQL-Covid-EDA/tree/main) | This project is to analyze and explore the data of covid cases in the world. In this project I want to get some insights about covid cases, death, and vaccination | SQLite |
+| [Covid Case EDA](https://github.com/rindangchi/SQL-Covid-EDA/tree/main) | This project is to analyze and explore the data of covid cases in the world. In this project I got some insights about covid cases, death, and vaccination. For example the most infectious country and the country with most vaccinated people | SQLite |
 
 
 <h3> 🐍 Python </h3>
