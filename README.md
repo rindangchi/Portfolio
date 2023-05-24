@@ -31,6 +31,6 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 
 | Project Link  | Description   |Tools|
 | ------------- | ------------- |-----|
-| [Twitter Sentiment Analysis](https://github.com/rindangchi/Simple-Sentiment-Analysis)       | Analyzing sentiment from tweet data about government's policy during covid pandemic. The sentiment is divided in three categories, poditive, negative, and neutral based on scoring. By analyzing people's opinion in social media government can gain an insight how society gives respond on their regulations | Python |
+| [Twitter Sentiment Analysis](https://github.com/rindangchi/Simple-Sentiment-Analysis)       | Analyzing sentiment from tweet data about government's policy during covid pandemic. The sentiment is divided in three categories, positive, negative, and neutral based on scoring. By analyzing people's opinion in social media government can gain an insight how society gives respond on their regulations | Python |
 
 <h3> 💻 Data Engineering </h3>
