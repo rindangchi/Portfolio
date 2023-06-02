@@ -2,7 +2,7 @@
 
 Here I put list of my portfolio project to make it easier to be accessed. This portfolio page is inspired by [Katie Huang](https://github.com/katiehuangx).
 
-<h2> 📁 Table of Contents </h2>
+<h2> 📁 What You Will Find Here </h2>
 
 - [Data Viz](#tableau)
 - [SQL](#sql)
