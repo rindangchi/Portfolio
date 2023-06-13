@@ -17,8 +17,8 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 | [Sales Performance Dashboard](https://github.com/rindangchi/Sales-Dashboard/blob/main/README.md) | This project is to create sales dashboard in Tableau using Sales Superstore data from Kaggle. Here I create some sales KPIs for sales.This project is a collaboration with [Arrlany](https://github.com/arrlanyhars). Tableau Link: [Sales Dashboard](https://public.tableau.com/app/profile/rindangcahyaning/viz/SalesDashboard_16741907212560/SalesOverview)  | Tableau, Figma|
 | [Make Over Monday-US Pay Gap](https://public.tableau.com/app/profile/rindangcahyaning/viz/MakeOverMonday2023W13USPayGap/Dashboard1)  | This simple dashboard is part of make over monday challenge participation, here I create simple dashboard to show the pay gap of US athlete based on gender   | Tableau |
 | [Skincare Review Dashboard](https://public.tableau.com/app/profile/rindangcahyaning/viz/SkincareReview/Dashboard2) | This dashboard shows the overview of customer review of skincare in a beauty community website, using this website consumer will know what is the most recommend skincare based on the Category and Brand. This project is a collaboration with [Arrlany](https://github.com/arrlanyhars)| Tableau, Figma |
-| [Global CO2 Emission Dashboard](https://public.tableau.com/app/profile/rindangcahyaning/viz/GlobalCO2Emission_16787234006400/Dashboard1) | This dashboard is to visualize the CO2 emission trends in the world between 1960-2011 | Tableau, Figma|
-
+| [Global CO2 Emission Dashboard](https://public.tableau.com/app/profile/rindangcahyaning/viz/GlobalCO2Emission_16787234006400/Dashboard1) | This dashboard is to visualize the CO2 emission trends in the world between 1960-2011.  This project is a collaboration with [Arrlany](https://github.com/arrlanyhars) | Tableau, Figma|
+| [IT Helpdesk Monitoring Dashboard](https://lookerstudio.google.com/reporting/ff88a66d-12e5-4f7c-9603-fcaf189c7b15) | This dashboard visualizes ticket monitoring for IT helpdesk support.  This project is a collaboration with [Arrlany](https://github.com/arrlanyhars) | Looker |
 
 <h3> 🛢️ SQL </h3>
 
