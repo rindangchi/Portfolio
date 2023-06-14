@@ -4,7 +4,7 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 
 <h2> 📁 What You Will Find Here </h2>
 
-- [Data Viz](#tableau)
+- [Data Viz](#data-viz)
 - [SQL](#sql)
 - [Python](#python)
 - [Data Engineering](#data-engineering)
