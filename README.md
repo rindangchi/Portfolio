@@ -25,6 +25,7 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 | Project Link  | Description   |Tools|
 | ------------- | ------------- |-----|
 | [Covid Case EDA](https://github.com/rindangchi/SQL-Covid-EDA/tree/main) | This project is to analyze and explore the data of covid cases in the world. In this project I got some insights about covid cases, death, and vaccination. For example the most infectious country and the country with most vaccinated people | SQLite |
+| [Data Lemur SQL Practice](https://github.com/rindangchi/Data-Lemur-SQL/blob/main/README.md) | This project contains some of my work during my practice on Data Lemur site. It contains my own solution to answer the given questions on the website.| SQL |
 
 
 <h3> 🐍 Python </h3>
