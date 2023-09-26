@@ -38,6 +38,7 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 | [Superstore EDA](https://github.com/rindangchi/Python-Practice/blob/main/EDA%20Superstore/README.md) (In Progress)| This project is creating exploratory data analysis for global superstore sales data. The data was taken from Kaggle | Python  |
 
 <h3> 💻 Web Development </h3>
+
 | Project Link  | Description   |Tools|
 | ------------- | ------------- |-----|
 | [CPNS Preparation Website](https://github.com/arrlanyhars/Web-Development-CerdasIndonesia/tree/main)       | CPNS preparation website is a website that provides a range of exam questions mock up to help people in preparing CPNS website. My role here is as project manager and UI/UX designer. This project is collaboration with [Arrlany](https://github.com/arrlanyhars) | Wordpress, Figma, Google Analytics |
