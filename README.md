@@ -11,7 +11,7 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 - [Data Engineering](#data-engineering)
 
 
-# <h3> Data Viz </h3>
+# Data Viz
 
 📊
 | Project Link  | Description   |Tools|
@@ -22,7 +22,7 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 | [Global CO2 Emission Dashboard](https://public.tableau.com/app/profile/rindangcahyaning/viz/GlobalCO2Emission_16787234006400/Dashboard1) | This dashboard is to visualize the CO2 emission trends in the world between 1960-2011.  This project is a collaboration with [Arrlany](https://github.com/arrlanyhars) | Tableau, Figma|
 | [IT Helpdesk Monitoring Dashboard](https://lookerstudio.google.com/reporting/ff88a66d-12e5-4f7c-9603-fcaf189c7b15) | This dashboard visualizes ticket monitoring for IT helpdesk support.  This project is a collaboration with [Arrlany](https://github.com/arrlanyhars) | Looker |
 
-# <h3> SQL </h3>
+# SQL
 🛢️
 | Project Link  | Description   |Tools|
 | ------------- | ------------- |-----|
