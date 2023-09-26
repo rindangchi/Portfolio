@@ -7,10 +7,11 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 - [Data Viz](#data-viz)
 - [SQL](#sql)
 - [Python](#python)
-- [Data Engineering](#data-engineering)
 - [Web Development](#web-development)
+- [Data Engineering](#data-engineering)
 
-<h3> 📊 Data Viz </h3>
+
+<h3> #Data Viz </h3>
 
 
 | Project Link  | Description   |Tools|
