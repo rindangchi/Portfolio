@@ -5,7 +5,7 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 📁 What You Will Find Here
 
 - [Data Viz](#📊data-viz)
-- [SQL](#🛢️sql)
+- [SQL](https://github.com/rindangchi/Portfolio/blob/main/README.md#%EF%B8%8F-sql)
 - [Python](#python)
 - [Web Development](#web-development)
 - [Data Engineering](#data-engineering)
