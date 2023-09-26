@@ -4,15 +4,15 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 
 📁 What You Will Find Here
 
-- [Data Viz](#📊data-viz)
-- [SQL](https://github.com/rindangchi/Portfolio/blob/main/README.md#%EF%B8%8F-sql)
+- [Data Viz](#data-viz)
+- [SQL](#sql)
 - [Python](#python)
 - [Web Development](#web-development)
 - [Data Engineering](#data-engineering)
 
 
-# 📊 Data Viz 
-
+# Data Viz 
+📊
 | Project Link  | Description   |Tools|
 | ------------- | ------------- |-----|
 | [Sales Performance Dashboard](https://github.com/rindangchi/Sales-Dashboard/blob/main/README.md) | This project is to create sales dashboard in Tableau using Sales Superstore data from Kaggle. Here I create some sales KPIs for sales.This project is a collaboration with [Arrlany](https://github.com/arrlanyhars). Tableau Link: [Sales Dashboard](https://public.tableau.com/app/profile/rindangcahyaning/viz/SalesDashboard_16741907212560/SalesOverview)  | Tableau, Figma|
@@ -21,7 +21,8 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 | [Global CO2 Emission Dashboard](https://public.tableau.com/app/profile/rindangcahyaning/viz/GlobalCO2Emission_16787234006400/Dashboard1) | This dashboard is to visualize the CO2 emission trends in the world between 1960-2011.  This project is a collaboration with [Arrlany](https://github.com/arrlanyhars) | Tableau, Figma|
 | [IT Helpdesk Monitoring Dashboard](https://lookerstudio.google.com/reporting/ff88a66d-12e5-4f7c-9603-fcaf189c7b15) | This dashboard visualizes ticket monitoring for IT helpdesk support.  This project is a collaboration with [Arrlany](https://github.com/arrlanyhars) | Looker |
 
-# 🛢️ SQL 
+# SQL 
+🛢️ 
 
 | Project Link  | Description   |Tools|
 | ------------- | ------------- |-----|
@@ -29,7 +30,8 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 | [Data Lemur SQL Practice](https://github.com/rindangchi/Data-Lemur-SQL/blob/main/README.md) | This project contains some of my work during my practice on Data Lemur site. It contains my own solution to answer the given questions on the website.| SQL |
 
 
-# 🐍 Python
+# Python
+🐍
 
 | Project Link  | Description   |Tools|
 | ------------- | ------------- |-----|
@@ -37,10 +39,12 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 | [K-Means Clustering using Python](https://github.com/rindangchi/Python-Practice-/blob/main/Clustering/2_Clustering_K_Means_Algorithm%20(Update).ipynb)  | In this project I create K-means clustering algorithm using irish data using python programming. I also write an article on Medium about this project on this [medium page](https://medium.com/nerd-for-tech/k-means-clustering-using-python-2150769bd0b9) | Python |
 | [Superstore EDA](https://github.com/rindangchi/Python-Practice/blob/main/EDA%20Superstore/README.md) (In Progress)| This project is creating exploratory data analysis for global superstore sales data. The data was taken from Kaggle | Python  |
 
-# 💻 Web Development
+# Web Development
+💻
 
 | Project Link  | Description   |Tools|
 | ------------- | ------------- |-----|
 | [CPNS Preparation Website](https://github.com/arrlanyhars/Web-Development-CerdasIndonesia/tree/main)       | CPNS preparation website is a website that provides a range of exam questions mock up to help people in preparing CPNS website. My role here is as project manager and UI/UX designer. This project is collaboration with [Arrlany](https://github.com/arrlanyhars) | Wordpress, Figma, Google Analytics |
 
-# 💻 Data Engineering
+# Data Engineering
+💻
