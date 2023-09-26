@@ -8,6 +8,7 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 - [SQL](#sql)
 - [Python](#python)
 - [Data Engineering](#data-engineering)
+- [Web Development](#web-development)
 
 <h3> 📊 Data Viz </h3>
 
@@ -35,5 +36,10 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 | [Twitter Sentiment Analysis](https://github.com/rindangchi/Simple-Sentiment-Analysis)       | Analyzing sentiment from tweet data about government's policy during covid pandemic. The sentiment is divided in three categories, positive, negative, and neutral based on scoring. By analyzing people's opinion in social media government can gain an insight how society gives respond on their regulations | Python |
 | [K-Means Clustering using Python](https://github.com/rindangchi/Python-Practice-/blob/main/Clustering/2_Clustering_K_Means_Algorithm%20(Update).ipynb)  | In this project I create K-means clustering algorithm using irish data using python programming. I also write an article on Medium about this project on this [medium page](https://medium.com/nerd-for-tech/k-means-clustering-using-python-2150769bd0b9) | Python |
 | [Superstore EDA](https://github.com/rindangchi/Python-Practice/blob/main/EDA%20Superstore/README.md) (In Progress)| This project is creating exploratory data analysis for global superstore sales data. The data was taken from Kaggle | Python  |
+
+<h3> 💻 Web Development </h3>
+| Project Link  | Description   |Tools|
+| ------------- | ------------- |-----|
+| [CPNS Preparation Website](https://github.com/arrlanyhars/Web-Development-CerdasIndonesia/tree/main)       | CPNS preparation website is a website that provides a range of exam questions mock up to help people in preparing CPNS website. My role here is as project manager and UI/UX designer. This project is collaboration with [Arrlany](https://github.com/arrlanyhars) | Wordpress, Figma, Google Analytics |
 
 <h3> 💻 Data Engineering </h3>
