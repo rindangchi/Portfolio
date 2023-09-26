@@ -11,9 +11,8 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 - [Data Engineering](#data-engineering)
 
 
-# Data Viz
+# Data Viz 📊
 
-📊
 | Project Link  | Description   |Tools|
 | ------------- | ------------- |-----|
 | [Sales Performance Dashboard](https://github.com/rindangchi/Sales-Dashboard/blob/main/README.md) | This project is to create sales dashboard in Tableau using Sales Superstore data from Kaggle. Here I create some sales KPIs for sales.This project is a collaboration with [Arrlany](https://github.com/arrlanyhars). Tableau Link: [Sales Dashboard](https://public.tableau.com/app/profile/rindangcahyaning/viz/SalesDashboard_16741907212560/SalesOverview)  | Tableau, Figma|
@@ -22,8 +21,8 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 | [Global CO2 Emission Dashboard](https://public.tableau.com/app/profile/rindangcahyaning/viz/GlobalCO2Emission_16787234006400/Dashboard1) | This dashboard is to visualize the CO2 emission trends in the world between 1960-2011.  This project is a collaboration with [Arrlany](https://github.com/arrlanyhars) | Tableau, Figma|
 | [IT Helpdesk Monitoring Dashboard](https://lookerstudio.google.com/reporting/ff88a66d-12e5-4f7c-9603-fcaf189c7b15) | This dashboard visualizes ticket monitoring for IT helpdesk support.  This project is a collaboration with [Arrlany](https://github.com/arrlanyhars) | Looker |
 
-# SQL
-🛢️
+# SQL 🛢️
+
 | Project Link  | Description   |Tools|
 | ------------- | ------------- |-----|
 | [Covid Case EDA](https://github.com/rindangchi/SQL-Covid-EDA/tree/main) | This project is to analyze and explore the data of covid cases in the world. In this project I got some insights about covid cases, death, and vaccination. For example the most infectious country and the country with most vaccinated people | SQLite |
