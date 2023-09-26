@@ -2,10 +2,10 @@
 
 Here I put list of my portfolio project to make it easier to be accessed. This portfolio page is inspired by [Katie Huang](https://github.com/katiehuangx).
 
-<h2> 📁 What You Will Find Here </h2>
+📁 What You Will Find Here
 
 - [Data Viz](#📊data-viz)
-- [SQL](#sql)
+- [SQL](#🛢️sql)
 - [Python](#python)
 - [Web Development](#web-development)
 - [Data Engineering](#data-engineering)
