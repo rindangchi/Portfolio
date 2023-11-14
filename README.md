@@ -38,6 +38,7 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 | [Twitter Sentiment Analysis](https://github.com/rindangchi/Simple-Sentiment-Analysis)       | Analyzing sentiment from tweet data about government's policy during covid pandemic. The sentiment is divided in three categories, positive, negative, and neutral based on scoring. By analyzing people's opinion in social media government can gain an insight how society gives respond on their regulations | Python |
 | [K-Means Clustering using Python](https://github.com/rindangchi/Python-Practice-/blob/main/Clustering/2_Clustering_K_Means_Algorithm%20(Update).ipynb)  | In this project I create K-means clustering algorithm using irish data using python programming. I also write an article on Medium about this project on this [medium page](https://medium.com/nerd-for-tech/k-means-clustering-using-python-2150769bd0b9) | Python |
 | [Superstore EDA](https://github.com/rindangchi/Python-Practice/blob/main/EDA%20Superstore/README.md) (In Progress)| This project is creating exploratory data analysis for global superstore sales data. The data was taken from Kaggle | Python  |
+| [Phising URL Detection](https://github.com/rindangchi/streamlit-phishing-url)| This project is to build a website using streamlit to detect phising URLs. Here I create some sales KPIs for sales.This project is a collaboration with [Arrlany](https://github.com/arrlanyhars), Wiwid, Chacha | Python, Streamlit | 
 
 # Web Development
 💻
