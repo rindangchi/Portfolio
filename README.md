@@ -1,6 +1,6 @@
 <h1> 🚀 Rindang's Portfolio </h1>
 
-Here I put list of my portfolio project to make it easier to be accessed. This portfolio page is inspired by [Katie Huang](https://github.com/katiehuangx).
+Here I put list of my portfolio project to make it easier to be accessed. 
 
 📁 What You Will Find Here
 
