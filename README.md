@@ -50,3 +50,6 @@ Here I put list of my portfolio project to make it easier to be accessed.
 
 # Data Engineering
 💻
+| Project Link  | Description   |Tools|
+| ------------- | ------------- |-----|
+[Uber Data Engineering Project](https://github.com/rindangchi/Uber-Data-Engineerinf/blob/main/README.md) In Progress|This project is to perform data engineering end to end for uber taxi dataset and perform analysis also creating visualization in Looker Data Studio | GCP, Looker, Mage|
