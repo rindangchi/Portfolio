@@ -20,6 +20,7 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 | [Skincare Review Dashboard](https://public.tableau.com/app/profile/rindangcahyaning/viz/SkincareReview/Dashboard2) | This dashboard shows the overview of customer review of skincare in a beauty community website, using this website consumer will know what is the most recommend skincare based on the Category and Brand. This project is a collaboration with [Arrlany](https://github.com/arrlanyhars)| Tableau, Figma |
 | [Global CO2 Emission Dashboard](https://public.tableau.com/app/profile/rindangcahyaning/viz/GlobalCO2Emission_16787234006400/Dashboard1) | This dashboard is to visualize the CO2 emission trends in the world between 1960-2011.  This project is a collaboration with [Arrlany](https://github.com/arrlanyhars) | Tableau, Figma|
 | [IT Helpdesk Monitoring Dashboard](https://lookerstudio.google.com/reporting/ff88a66d-12e5-4f7c-9603-fcaf189c7b15) | This dashboard visualizes ticket monitoring for IT helpdesk support.  This project is a collaboration with [Arrlany](https://github.com/arrlanyhars) | Looker |
+| [Redesign Dashboard PT Pupuk Indonesia ] | This dashboard is created for sales and operation planning division at PT Pupuk Indonesia (Persero). as part of my freelance project with Artavizta Karya Teknologi| Tableau, SQL |
 
 # SQL 
 🛢️ 
@@ -38,7 +39,7 @@ Here I put list of my portfolio project to make it easier to be accessed. This p
 | [Twitter Sentiment Analysis](https://github.com/rindangchi/Simple-Sentiment-Analysis)       | Analyzing sentiment from tweet data about government's policy during covid pandemic. The sentiment is divided in three categories, positive, negative, and neutral based on scoring. By analyzing people's opinion in social media government can gain an insight how society gives respond on their regulations | Python |
 | [K-Means Clustering using Python](https://github.com/rindangchi/Python-Practice-/blob/main/Clustering/2_Clustering_K_Means_Algorithm%20(Update).ipynb)  | In this project I create K-means clustering algorithm using irish data using python programming. I also write an article on Medium about this project on this [medium page](https://medium.com/nerd-for-tech/k-means-clustering-using-python-2150769bd0b9) | Python |
 | [Superstore EDA](https://github.com/rindangchi/Python-Practice/blob/main/EDA%20Superstore/README.md) (In Progress)| This project is creating exploratory data analysis for global superstore sales data. The data was taken from Kaggle | Python  |
-| [Phising URL Detection](https://github.com/rindangchi/streamlit-phishing-url)| This project is to build a website using streamlit to detect phising URLs. Here I create some sales KPIs for sales.This project is a collaboration with [Arrlany](https://github.com/arrlanyhars), Wiwid, Chacha | Python, Streamlit | 
+| [Phising URL Detection](https://github.com/rindangchi/streamlit-phishing-url)| This project is to build a website using streamlit to detect phising URLs.This project is a collaboration with [Arrlany](https://github.com/arrlanyhars), Wiwid, Chacha | Python, Streamlit | 
 
 # Web Development
 💻
