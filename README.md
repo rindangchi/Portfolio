@@ -55,3 +55,5 @@ Here I put list of my portfolio project to make it easier to be accessed.
 | Project Link  | Description   |Tools|
 | ------------- | ------------- |-----|
 [Uber Data Engineering Project](https://github.com/rindangchi/Uber-Data-Engineerinf/blob/main/README.md) |This project is to perform data engineering end to end for uber taxi dataset and perform analysis also creating visualization in Looker Data Studio | GCP, Looker, Mage|
+[Simple ETL with Luigi](https://github.com/rindangchi/Simple-ETL-with-Luigi/blob/main/README.md) |This project is to create simple ETL using Luigi | Python, Postgresql |
+
