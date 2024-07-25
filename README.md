@@ -57,7 +57,7 @@ Here I put list of my portfolio project to make it easier to be accessed.
 [Uber Data Engineering Project](https://github.com/rindangchi/Uber-Data-Engineerinf/blob/main/README.md) |This project is to perform data engineering end to end for uber taxi dataset and perform analysis also creating visualization in Looker Data Studio | GCP, Looker, Mage|
 [Simple ETL with Luigi](https://github.com/rindangchi/Simple-ETL-with-Luigi/blob/main/README.md) |This project is to create simple ETL using Luigi | Python, Postgresql |
 [Create Realational Database in Postgresql](https://github.com/rindangchi/PacFood-Study-Case/blob/main/README.md) |This project is to create relational datanbase in postgresql and did some data retrival. This is part of practical class from Pacmaan RDBMS course week 8 | Python, Postgresql |
-[Azure Olympic Data Engineering](https://github.com/rindangchi/Azure-Olympics-Data-Engineering-Project/blob/main/README.md) |This project is to create relational datanbase in postgresql and did some data retrival. This is part of practical class from Pacmaan RDBMS course week 8 | Python, Postgresql |
+[Azure Olympic Data Engineering](https://github.com/rindangchi/Azure-Olympics-Data-Engineering-Project/blob/main/README.md) |This project is to create relational datanbase in postgresql and did some data retrival. This is part of practical class from Pacmaan RDBMS course week 8 | Azure, SQL |
 
 
 
